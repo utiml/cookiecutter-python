@@ -1,5 +1,6 @@
 {
     "project_name": "default_name",
+    "python_version": "3.7.12",
     "module_name": "hello_world",
     "description": "short description",
     "author": "Mr. Developer Name",
